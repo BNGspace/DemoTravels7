@@ -1,0 +1,258 @@
+2022-01-16 13:09:18,433 :INFO: :************** Test_001_Login ***********
+2022-01-16 13:09:18,434 :INFO: :**************Verifying Home Page Title*******
+2022-01-16 13:09:51,473 :ERROR: :**************Home Page Title is Failed ********
+2022-01-16 13:10:06,900 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 13:13:41,757 :INFO: :************** Test_001_Login ***********
+2022-01-16 13:13:41,757 :INFO: :**************Verifying Home Page Title*******
+2022-01-16 13:14:15,624 :ERROR: :**************Home Page Title is Failed ********
+2022-01-16 13:14:28,620 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 13:20:32,565 :INFO: :************** Test_001_Login ***********
+2022-01-16 13:20:32,566 :INFO: :**************Verifying Home Page Title*******
+2022-01-16 13:20:51,050 :INFO: :**************Home Page Title is Passed *******
+2022-01-16 13:20:55,880 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 13:23:56,643 :INFO: :************** Test_001_Login ***********
+2022-01-16 13:23:56,644 :INFO: :**************Verifying Home Page Title*******
+2022-01-16 13:24:17,550 :INFO: :**************Home Page Title is Passed *******
+2022-01-16 13:24:22,137 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 13:29:11,972 :INFO: :************** Test_001_Login ***********
+2022-01-16 13:29:11,973 :INFO: :**************Verifying Home Page Title*******
+2022-01-16 13:29:30,782 :INFO: :**************Home Page Title is Passed *******
+2022-01-16 13:29:35,173 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 13:33:16,056 :INFO: :************** Test_001_Login ***********
+2022-01-16 13:33:16,056 :INFO: :**************Verifying Home Page Title*******
+2022-01-16 13:33:35,910 :INFO: :**************Home Page Title is Passed *******
+2022-01-16 13:33:40,884 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 13:36:25,702 :INFO: :************** Test_001_Login ***********
+2022-01-16 13:36:25,702 :INFO: :**************Verifying Home Page Title*******
+2022-01-16 13:36:44,307 :INFO: :**************Home Page Title is Passed *******
+2022-01-16 13:36:49,085 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 13:38:51,121 :INFO: :************** Test_001_Login ***********
+2022-01-16 13:38:51,122 :INFO: :**************Verifying Home Page Title*******
+2022-01-16 13:39:07,972 :INFO: :**************Home Page Title is Passed *******
+2022-01-16 13:39:12,476 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 13:40:05,369 :ERROR: :**************Home Login Test is Failed *****
+2022-01-16 13:42:01,532 :INFO: :************** Test_001_Login ***********
+2022-01-16 13:42:01,532 :INFO: :**************Verifying Home Page Title*******
+2022-01-16 13:42:19,821 :INFO: :**************Home Page Title is Passed *******
+2022-01-16 13:42:24,455 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 13:42:40,245 :INFO: :**************Home Login Test is Passed ******
+2022-01-16 16:18:01,868 :INFO: :************** Test_002_Login ***********
+2022-01-16 16:18:01,868 :INFO: :**************Verifying Home Page Title*******
+2022-01-16 16:25:33,883 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 16:30:14,015 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 16:34:54,676 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 16:38:26,274 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 16:40:15,631 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 16:40:34,395 :INFO: :**************Home Login Test is Passed ******
+2022-01-16 16:47:10,402 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 16:48:18,470 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 16:49:24,242 :ERROR: :**************Hotelpageload is Failed *****
+2022-01-16 16:51:04,370 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 16:51:25,279 :INFO: :**************Hotelpageloadd is Passed ******
+2022-01-16 16:58:30,217 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 16:58:30,217 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 16:58:30,217 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 16:58:30,217 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 16:59:27,959 :ERROR: :**************Flightpageload is Failed *****
+2022-01-16 16:59:27,959 :ERROR: :**************Flightpageload is Failed *****
+2022-01-16 16:59:27,959 :ERROR: :**************Flightpageload is Failed *****
+2022-01-16 16:59:27,959 :ERROR: :**************Flightpageload is Failed *****
+2022-01-16 16:59:40,778 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 16:59:40,778 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 16:59:40,778 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 16:59:40,778 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:00:46,755 :ERROR: :**************Flightpageload is Failed *****
+2022-01-16 17:00:46,755 :ERROR: :**************Flightpageload is Failed *****
+2022-01-16 17:00:46,755 :ERROR: :**************Flightpageload is Failed *****
+2022-01-16 17:00:46,755 :ERROR: :**************Flightpageload is Failed *****
+2022-01-16 17:00:54,249 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:00:54,249 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:00:54,249 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:00:54,249 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:01:15,845 :INFO: :**************Hotelpageloadd is Passed ******
+2022-01-16 17:01:15,845 :INFO: :**************Hotelpageloadd is Passed ******
+2022-01-16 17:01:15,845 :INFO: :**************Hotelpageloadd is Passed ******
+2022-01-16 17:01:15,845 :INFO: :**************Hotelpageloadd is Passed ******
+2022-01-16 17:01:21,690 :INFO: :************** Test_001_Login ***********
+2022-01-16 17:01:21,690 :INFO: :************** Test_001_Login ***********
+2022-01-16 17:01:21,690 :INFO: :************** Test_001_Login ***********
+2022-01-16 17:01:21,690 :INFO: :************** Test_001_Login ***********
+2022-01-16 17:01:21,691 :INFO: :**************Verifying Home Page Title*******
+2022-01-16 17:01:21,691 :INFO: :**************Verifying Home Page Title*******
+2022-01-16 17:01:21,691 :INFO: :**************Verifying Home Page Title*******
+2022-01-16 17:01:21,691 :INFO: :**************Verifying Home Page Title*******
+2022-01-16 17:01:39,737 :INFO: :**************Home Page Title is Passed *******
+2022-01-16 17:01:39,737 :INFO: :**************Home Page Title is Passed *******
+2022-01-16 17:01:39,737 :INFO: :**************Home Page Title is Passed *******
+2022-01-16 17:01:39,737 :INFO: :**************Home Page Title is Passed *******
+2022-01-16 17:01:44,716 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:01:44,716 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:01:44,716 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:01:44,716 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:02:00,663 :INFO: :**************Home Login Test is Passed ******
+2022-01-16 17:02:00,663 :INFO: :**************Home Login Test is Passed ******
+2022-01-16 17:02:00,663 :INFO: :**************Home Login Test is Passed ******
+2022-01-16 17:02:00,663 :INFO: :**************Home Login Test is Passed ******
+2022-01-16 17:07:33,146 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:07:33,146 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:07:33,146 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:07:33,146 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:08:30,585 :ERROR: :**************Flightpageload is Failed *****
+2022-01-16 17:08:30,585 :ERROR: :**************Flightpageload is Failed *****
+2022-01-16 17:08:30,585 :ERROR: :**************Flightpageload is Failed *****
+2022-01-16 17:08:30,585 :ERROR: :**************Flightpageload is Failed *****
+2022-01-16 17:08:43,419 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:08:43,419 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:08:43,419 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:08:43,419 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:09:46,820 :ERROR: :**************Carspageload is Failed *****
+2022-01-16 17:09:46,820 :ERROR: :**************Carspageload is Failed *****
+2022-01-16 17:09:46,820 :ERROR: :**************Carspageload is Failed *****
+2022-01-16 17:09:46,820 :ERROR: :**************Carspageload is Failed *****
+2022-01-16 17:09:53,829 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:09:53,829 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:09:53,829 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:09:53,829 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:10:14,649 :INFO: :**************Hotelpageloadd is Passed ******
+2022-01-16 17:10:14,649 :INFO: :**************Hotelpageloadd is Passed ******
+2022-01-16 17:10:14,649 :INFO: :**************Hotelpageloadd is Passed ******
+2022-01-16 17:10:14,649 :INFO: :**************Hotelpageloadd is Passed ******
+2022-01-16 17:10:20,114 :INFO: :************** Test_001_Login ***********
+2022-01-16 17:10:20,114 :INFO: :************** Test_001_Login ***********
+2022-01-16 17:10:20,114 :INFO: :************** Test_001_Login ***********
+2022-01-16 17:10:20,114 :INFO: :************** Test_001_Login ***********
+2022-01-16 17:10:20,115 :INFO: :**************Verifying Home Page Title*******
+2022-01-16 17:10:20,115 :INFO: :**************Verifying Home Page Title*******
+2022-01-16 17:10:20,115 :INFO: :**************Verifying Home Page Title*******
+2022-01-16 17:10:20,115 :INFO: :**************Verifying Home Page Title*******
+2022-01-16 17:10:37,999 :INFO: :**************Home Page Title is Passed *******
+2022-01-16 17:10:37,999 :INFO: :**************Home Page Title is Passed *******
+2022-01-16 17:10:37,999 :INFO: :**************Home Page Title is Passed *******
+2022-01-16 17:10:37,999 :INFO: :**************Home Page Title is Passed *******
+2022-01-16 17:10:42,841 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:10:42,841 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:10:42,841 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:10:42,841 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:10:58,560 :INFO: :**************Home Login Test is Passed ******
+2022-01-16 17:10:58,560 :INFO: :**************Home Login Test is Passed ******
+2022-01-16 17:10:58,560 :INFO: :**************Home Login Test is Passed ******
+2022-01-16 17:10:58,560 :INFO: :**************Home Login Test is Passed ******
+2022-01-16 17:16:28,527 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:17:37,009 :ERROR: :**************Carspageload is Failed *****
+2022-01-16 17:22:45,225 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:24:40,073 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:25:47,080 :ERROR: :**************Carspageload is Failed *****
+2022-01-16 17:28:18,498 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:29:25,647 :ERROR: :**************Carspageload is Failed *****
+2022-01-16 17:34:12,914 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:34:33,205 :INFO: :**************Home Carspageload is Passed ******
+2022-01-16 17:35:24,415 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:36:21,293 :ERROR: :**************Flightpageload is Failed *****
+2022-01-16 17:38:44,159 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:39:41,397 :ERROR: :**************Flightpageload is Failed *****
+2022-01-16 17:41:32,498 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:41:57,004 :INFO: :**************Home Flightpageload is Passed ******
+2022-01-16 17:45:25,985 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:45:25,985 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:45:25,985 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:45:25,985 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:45:46,248 :INFO: :**************Home Flightpageload is Passed ******
+2022-01-16 17:45:46,248 :INFO: :**************Home Flightpageload is Passed ******
+2022-01-16 17:45:46,248 :INFO: :**************Home Flightpageload is Passed ******
+2022-01-16 17:45:46,248 :INFO: :**************Home Flightpageload is Passed ******
+2022-01-16 17:45:52,204 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:45:52,204 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:45:52,204 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:45:52,204 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:46:11,081 :INFO: :**************Home Carspageload is Passed ******
+2022-01-16 17:46:11,081 :INFO: :**************Home Carspageload is Passed ******
+2022-01-16 17:46:11,081 :INFO: :**************Home Carspageload is Passed ******
+2022-01-16 17:46:11,081 :INFO: :**************Home Carspageload is Passed ******
+2022-01-16 17:46:17,405 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:46:17,405 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:46:17,405 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:46:17,405 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:46:36,965 :INFO: :**************Hotelpageloadd is Passed ******
+2022-01-16 17:46:36,965 :INFO: :**************Hotelpageloadd is Passed ******
+2022-01-16 17:46:36,965 :INFO: :**************Hotelpageloadd is Passed ******
+2022-01-16 17:46:36,965 :INFO: :**************Hotelpageloadd is Passed ******
+2022-01-16 17:46:42,528 :INFO: :************** Test_001_Login ***********
+2022-01-16 17:46:42,528 :INFO: :************** Test_001_Login ***********
+2022-01-16 17:46:42,528 :INFO: :************** Test_001_Login ***********
+2022-01-16 17:46:42,528 :INFO: :************** Test_001_Login ***********
+2022-01-16 17:46:42,528 :INFO: :**************Verifying Home Page Title*******
+2022-01-16 17:46:42,528 :INFO: :**************Verifying Home Page Title*******
+2022-01-16 17:46:42,528 :INFO: :**************Verifying Home Page Title*******
+2022-01-16 17:46:42,528 :INFO: :**************Verifying Home Page Title*******
+2022-01-16 17:46:59,275 :INFO: :**************Home Page Title is Passed *******
+2022-01-16 17:46:59,275 :INFO: :**************Home Page Title is Passed *******
+2022-01-16 17:46:59,275 :INFO: :**************Home Page Title is Passed *******
+2022-01-16 17:46:59,275 :INFO: :**************Home Page Title is Passed *******
+2022-01-16 17:50:09,580 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:50:09,580 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:50:09,580 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:50:09,580 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:50:29,844 :INFO: :************** Test_001_Login ***********
+2022-01-16 17:50:29,844 :INFO: :************** Test_001_Login ***********
+2022-01-16 17:50:29,844 :INFO: :************** Test_001_Login ***********
+2022-01-16 17:50:29,844 :INFO: :************** Test_001_Login ***********
+2022-01-16 17:50:29,845 :INFO: :**************Verifying Home Page Title*******
+2022-01-16 17:50:29,845 :INFO: :**************Verifying Home Page Title*******
+2022-01-16 17:50:29,845 :INFO: :**************Verifying Home Page Title*******
+2022-01-16 17:50:29,845 :INFO: :**************Verifying Home Page Title*******
+2022-01-16 17:50:49,667 :INFO: :**************Home Page Title is Passed *******
+2022-01-16 17:50:49,667 :INFO: :**************Home Page Title is Passed *******
+2022-01-16 17:50:49,667 :INFO: :**************Home Page Title is Passed *******
+2022-01-16 17:50:49,667 :INFO: :**************Home Page Title is Passed *******
+2022-01-16 17:55:26,975 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:55:26,975 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:55:26,975 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:55:26,975 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:55:47,781 :INFO: :**************Hotelpageloadd is Passed ******
+2022-01-16 17:55:47,781 :INFO: :**************Hotelpageloadd is Passed ******
+2022-01-16 17:55:47,781 :INFO: :**************Hotelpageloadd is Passed ******
+2022-01-16 17:55:47,781 :INFO: :**************Hotelpageloadd is Passed ******
+2022-01-16 17:55:53,105 :INFO: :************** Test_001_Login ***********
+2022-01-16 17:55:53,105 :INFO: :************** Test_001_Login ***********
+2022-01-16 17:55:53,105 :INFO: :************** Test_001_Login ***********
+2022-01-16 17:55:53,105 :INFO: :************** Test_001_Login ***********
+2022-01-16 17:55:53,106 :INFO: :**************Verifying Home Page Title*******
+2022-01-16 17:55:53,106 :INFO: :**************Verifying Home Page Title*******
+2022-01-16 17:55:53,106 :INFO: :**************Verifying Home Page Title*******
+2022-01-16 17:55:53,106 :INFO: :**************Verifying Home Page Title*******
+2022-01-16 17:56:12,070 :INFO: :**************Home Page Title is Passed *******
+2022-01-16 17:56:12,070 :INFO: :**************Home Page Title is Passed *******
+2022-01-16 17:56:12,070 :INFO: :**************Home Page Title is Passed *******
+2022-01-16 17:56:12,070 :INFO: :**************Home Page Title is Passed *******
+2022-01-16 17:58:44,739 :INFO: :************** Test_001_Login ***********
+2022-01-16 17:58:44,740 :INFO: :**************Verifying Home Page Title*******
+2022-01-16 17:59:04,375 :INFO: :**************Home Page Title is Passed *******
+2022-01-16 17:59:08,783 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:59:49,309 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:59:49,309 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:59:49,309 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 17:59:49,309 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 18:00:13,874 :INFO: :**************Hotelpageloadd is Passed ******
+2022-01-16 18:00:13,874 :INFO: :**************Hotelpageloadd is Passed ******
+2022-01-16 18:00:13,874 :INFO: :**************Hotelpageloadd is Passed ******
+2022-01-16 18:00:13,874 :INFO: :**************Hotelpageloadd is Passed ******
+2022-01-16 18:00:19,156 :INFO: :************** Test_001_Login ***********
+2022-01-16 18:00:19,156 :INFO: :************** Test_001_Login ***********
+2022-01-16 18:00:19,156 :INFO: :************** Test_001_Login ***********
+2022-01-16 18:00:19,156 :INFO: :************** Test_001_Login ***********
+2022-01-16 18:00:19,156 :INFO: :**************Verifying Home Page Title*******
+2022-01-16 18:00:19,156 :INFO: :**************Verifying Home Page Title*******
+2022-01-16 18:00:19,156 :INFO: :**************Verifying Home Page Title*******
+2022-01-16 18:00:19,156 :INFO: :**************Verifying Home Page Title*******
+2022-01-16 18:00:37,432 :INFO: :**************Home Page Title is Passed *******
+2022-01-16 18:00:37,432 :INFO: :**************Home Page Title is Passed *******
+2022-01-16 18:00:37,432 :INFO: :**************Home Page Title is Passed *******
+2022-01-16 18:00:37,432 :INFO: :**************Home Page Title is Passed *******
+2022-01-16 18:00:42,315 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 18:00:42,315 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 18:00:42,315 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 18:00:42,315 :INFO: :***********Verifying Login Functionality *******
+2022-01-16 18:00:57,957 :INFO: :**************Home Login Test is Passed ******
+2022-01-16 18:00:57,957 :INFO: :**************Home Login Test is Passed ******
+2022-01-16 18:00:57,957 :INFO: :**************Home Login Test is Passed ******
+2022-01-16 18:00:57,957 :INFO: :**************Home Login Test is Passed ******
